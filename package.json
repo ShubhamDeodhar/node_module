@@ -1,0 +1,12 @@
+{
+  "name": "understanding-node",
+  "version": "1.0.0",
+  "description": "\"Simple node example\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Shubham Deodhar",
+  "license": "ISC"
+}
